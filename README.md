@@ -69,5 +69,7 @@ Araceli Gámez
 
 ### Contacto
 Si como yo, eres un entusiasta aprendiz de programación, contáctate conmigo a través de:
+
 **GITHUB**: [https://github.com/Ararita-art](https://github.com/Ararita-art)
+
 **LINKEDIN**: [www.linkedin.com/in/araceli-gámez-chávez-21a135312](www.linkedin.com/in/araceli-gámez-chávez-21a135312)
