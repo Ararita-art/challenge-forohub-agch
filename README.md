@@ -63,3 +63,11 @@ La API proporciona:
 - **Endpoints protegidos** por roles  
 - **Validación exhaustiva** de datos de entrada  
 - **Manejo centralizado** de excepciones
+
+## Desarrolladora de la aplicación
+Araceli Gámez
+
+### Contacto
+Si como yo, eres un entusiasta aprendiz de programación, contáctate conmigo a través de:
+**GITHUB**: [https://github.com/Ararita-art](https://github.com/Ararita-art)
+**LINKEDIN**: [www.linkedin.com/in/araceli-gámez-chávez-21a135312](www.linkedin.com/in/araceli-gámez-chávez-21a135312)
