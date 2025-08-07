@@ -3,8 +3,7 @@
 ## 📋 Descripción  
 ForoHub API es una aplicación backend diseñada para gestionar un sistema de foros donde los usuarios pueden:  
 - Crear tópicos  
-- Responder a discusiones  
-- Participar en diferentes cursos  
+- Responder tópicos 
 
 La API proporciona:  
 🔒 Autenticación segura  
